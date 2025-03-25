@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /privacy
+Allow: /terms
+Allow: /controls
+Allow: /faq
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+
+Sitemap: https://motox3m2.online/sitemap.xml 
