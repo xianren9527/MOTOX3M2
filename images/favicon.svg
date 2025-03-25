@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- 摩托车图标 - 简单现代设计 -->
+    <rect width="32" height="32" fill="#ff0000" rx="6"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial Black" font-size="14">MX</text>
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial" font-size="8">2</text>
+</svg> 
